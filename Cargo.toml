@@ -1,0 +1,9 @@
+[package]
+name = "penrose"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+penrose = { git = "https://github.com/sminez/penrose.git" }
+tracing-subscriber = { version = "0.3.18", features = ["env-filter"] }
+penrose_ui = { git = "https://github.com/sminez/penrose.git" }
