@@ -1,7 +1,4 @@
 # Penrose
-
-![Screenshot](Screenshot.png)
-
 ### Installation:
 > Clone the repository and navigate into the directory:
 > ```sh
@@ -36,4 +33,4 @@
 > ```
 > startx
 > ```
-# penrose
+
